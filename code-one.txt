@@ -1,0 +1,1 @@
+Machine language is the lowest language level of the programming language and is the only one which computers can understand. For us (humans) it is not possible to write a program in Machine language which we often say Binary Code 0,1. This is the reason we use high-level programming languages which in the end converted into Machine language to run on a computer or system.
