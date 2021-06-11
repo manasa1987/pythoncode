@@ -5,3 +5,12 @@ Step 4: Create A Directory. ...
 Step 5: Copy your GitHub URL. ...
 Step 6: Clone your Repo.
 But, the thing here is to understand “what is scripting language?” we must understand the difference between programming and scripting language.
+After reading this article you will be able to;
+
+Understand scripting language
+Difference between Compiler and Interpreter
+Difference between Programming language and scripting language
+Programming or Scripting knowledge is required or not to learn DevOps
+Machine language is the lowest language level of the programming language and is the only one which computers can understand. For us (humans) it is not possible to write a program in Machine language which we often say Binary Code 0,1. This is the reason we use high-level programming languages which in the end converted into Machine language to run on a computer or system.
+
+But, the thing here is to understand “what is scripting
