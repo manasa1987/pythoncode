@@ -1,0 +1,4 @@
+Understand scripting language
+Difference between Compiler and Interpreter
+Difference between Programming language and scripting language
+Programming or Scripting knowledge is required or not to
